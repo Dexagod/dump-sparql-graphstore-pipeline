@@ -1,0 +1,11 @@
+{
+  "name": "rdf-align-runner",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@comunica/query-sparql": "^5.1.0",
+    "n3": "^1.23.0",
+    "rdf-parse": "^5.0.0"
+  }
+}
